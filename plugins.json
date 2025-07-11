@@ -1,0 +1,17 @@
+[
+    {
+      "title_id": "00040000001B5100",
+      "nom": "Plugin Exemple 1",
+      "url": "https://exemple.com/plugins/plugin1.plg"
+    },
+    {
+      "title_id": "00040000001B5200",
+      "nom": "Plugin Exemple 2",
+      "url": "https://exemple.com/plugins/plugin2.plg"
+    },
+    {
+      "title_id": "00040000001B5300",
+      "nom": "Plugin Exemple 3",
+      "url": "https://exemple.com/plugins/plugin3.plg"
+    }
+]
