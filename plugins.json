@@ -13,5 +13,10 @@
     "nom": "Plugin Zelda Ocarina",
     "title_id": "0004000000033500",
     "url": "http://example.com/plugins/zelda.plg"
+  },
+  {
+    "nom": "Gotaz",
+    "title_id": "0004000000033500",
+    "url": "http://example.com/plugins/zelda.plg"
   }
 ]
