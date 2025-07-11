@@ -1,17 +1,17 @@
 [
-    {
-      "title_id": "00040000001B5100",
-      "nom": "Plugin Exemple 1",
-      "url": "https://exemple.com/plugins/plugin1.plg"
-    },
-    {
-      "title_id": "00040000001B5200",
-      "nom": "Plugin Exemple 2",
-      "url": "https://exemple.com/plugins/plugin2.plg"
-    },
-    {
-      "title_id": "00040000001B5300",
-      "nom": "Plugin Exemple 3",
-      "url": "https://exemple.com/plugins/plugin3.plg"
-    }
+  {
+    "nom": "Plugin Mario Kart 7",
+    "title_id": "0004000000030800",
+    "url": "http://example.com/plugins/mk7.plg"
+  },
+  {
+    "nom": "Plugin Monster Hunter 4U",
+    "title_id": "0004000000126100",
+    "url": "http://example.com/plugins/mh4u.plg"
+  },
+  {
+    "nom": "Plugin Zelda Ocarina",
+    "title_id": "0004000000033500",
+    "url": "http://example.com/plugins/zelda.plg"
+  }
 ]
